@@ -1,0 +1,20 @@
+.container{
+width: 100vw; height: 100vw; position: relative; background: white;
+}
+.topone{
+   width: 760px; height: 358px; left: 19px; top: 0px; position: absolute; color: black; font-size: 100px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.semi1{
+    width: 176px; height: 68px; left: 447px; top: 266px; position: absolute; color: black; font-size: 40px; font-family: Inter; font-weight: 700; word-wrap: break-word
+}
+.semi2{
+    left: 447px; top: 322px; position: absolute; color: black; font-size: 25px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+
+
+.semi3{
+    width: 168px; height: 104px; left: 1086px; top: 322px; position: absolute; color: black; font-size: 25px; font-family: Inter; font-weight: 700; word-wrap: break-word;
+}
+.semi4{
+    width: 737px; height: 46px; left: 447px; top: 358px; position: absolute; color: black; font-size: 25px; font-family: Inter; font-weight: 500; word-wrap: break-word;
+}
